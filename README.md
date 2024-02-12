@@ -1,2 +1,2 @@
-# Multi_Lang_App
+# Multi-Lang-App
 Multiple Language Application
